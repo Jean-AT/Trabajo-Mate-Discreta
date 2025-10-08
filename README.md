@@ -40,6 +40,3 @@ The goal of this project is to apply **discrete structures, logic, and functions
 - **Datetime** for managing time-based data  
 - **OS Module** for file handling  
 
----
-
-## 📂 Example File Structure
